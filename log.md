@@ -1,1 +1,1 @@
-"Day 1: $(date)" 
+"Day 1: $(6th September 2025)" 
